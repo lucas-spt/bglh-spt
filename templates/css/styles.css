@@ -1,12 +1,29 @@
+
 *{
 
     margin: 0;
     padding: 0;
     background-color: aqua;
-
+    font-family:Arial, Helvetica, sans-serif
 
 
 
 
 }
-    
+body{
+    display: flex;
+}
+    h1{
+        background-color: #ffff;
+        padding: 20px;
+        margin: 20px;
+        border-radius: 100000px;
+        box-shadow: 20px 20px 100px 20px;
+
+
+
+    }
+    label{
+        padding: 2px;
+        margin-left: 60px;
+    }
